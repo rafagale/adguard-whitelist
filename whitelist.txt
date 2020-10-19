@@ -3,3 +3,4 @@
 @@||go.androidpolice.com^important
 @@||www.godaddy.com^
 @@||track.effiliation.com^
+@@||s.click.aliexpress.com^
