@@ -1,5 +1,4 @@
 @@||blazing.network^
-@@||digidip.net^$important
 @@||go.androidpolice.com^$important
 @@||www.godaddy.com^
 @@||track.effiliation.com^
