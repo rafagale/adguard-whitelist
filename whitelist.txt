@@ -1,6 +1,6 @@
 @@||blazing.network^
-@@||chollometro.digidip.net^
-@@||go.androidpolice.com^important
+@@||digidip.net^$important
+@@||go.androidpolice.com^$important
 @@||www.godaddy.com^
 @@||track.effiliation.com^
 @@||s.click.aliexpress.com^
